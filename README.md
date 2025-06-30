@@ -76,7 +76,7 @@ Inspirado na abordagem da série **Mindhunter**, o estudo parte da hipótese de 
 
 ## 🚧 Status
 
-Em desenvolvimento. Primeiras análises exploratórias e limpeza de dados em andamento.
+Em desenvolvimento. Limpeza de dados realizada e dataframe montado. Análise exploratória apenas iniciada.
 
 ---
 
