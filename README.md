@@ -84,3 +84,13 @@ Em desenvolvimento. Primeiras análises exploratórias e limpeza de dados em and
 
 > “Os dados não mentem. Mas é preciso saber onde procurar.”  
 > – *Baseado na lógica investigativa de Mindhunter*
+
+## 🧪 Como rodar este projeto localmente
+### 1. Clone o repositório
+```bash
+git clone https://github.com/LunusMax/MindhunterBR.git
+cd MindhunterBR
+### 2. Instale todas as dependências de uma vez
+pip install -r requirements.txt
+### 3. Rode o notebook
+Abra o arquivo dentro da pasta notebooks/ com Jupyter ou no Google Colab.
