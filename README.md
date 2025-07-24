@@ -88,8 +88,8 @@ Em desenvolvimento. Limpeza de dados realizada e dataframe montado. Análise exp
 ## 🧪 Como rodar este projeto localmente
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/LunusMax/MindhunterBR.git
-cd MindhunterBR
+git clone https://github.com/LunusMax/mindhunter-data.git
+cd mindhunter-data
 ### 2. Instale todas as dependências de uma vez
 pip install -r requirements.txt
 ### 3. Rode o notebook
